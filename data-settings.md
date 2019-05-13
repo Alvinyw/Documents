@@ -125,10 +125,10 @@
 
 ```html
 <value name="村情">
-  <link>C:\Program Files</link>
+  <link>./Docs/doc1</link>
 </value>
 <value name="党建基本情况">
-  <link>C:\Program Files</link>
+  <link>./Docs/doc1</link>
 </value>
 ......
 ```
@@ -137,16 +137,18 @@
 
 ```html
 <value name="村情">
-  <link>C:\Program Files</link>
+  <link>./Docs/doc1</link>
 </value>
 <value name="党建基本情况">
-  <link>C:\Program Files</link>
+  <link>./Docs/doc1</link>
 </value>
 <value name="新的抽查内容">
   <link>此处填入新的抽查内容在本地电脑上的路径</link>
 </value>
 ......
 ```
+
+>**抽查内容的路径应填入相对路径**
 
 ## 六、修改选抽查内容时的跳动速度
 
